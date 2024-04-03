@@ -1,0 +1,14 @@
+names:
+- cracks
+- potholes
+- zero
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: fyp-data-objectdetect-20240226
+  url: https://universe.roboflow.com/wenyi/fyp-data-objectdetect-20240226/dataset/3
+  version: 3
+  workspace: wenyi
+test: "D:/GIT-Mine(DONTINIT)/A-FYP/moktrial2/FYP-Data-ObjectDetect-20240226-3/test/images"
+train: "D:/GIT-Mine(DONTINIT)/A-FYP/moktrial2/FYP-Data-ObjectDetect-20240226-3/train/images"
+val: "D:/GIT-Mine(DONTINIT)/A-FYP/moktrial2/FYP-Data-ObjectDetect-20240226-3/valid/images"
